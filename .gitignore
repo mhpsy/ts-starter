@@ -1,0 +1,8 @@
+.history
+
+.DS_Store
+
+dist
+logs
+
+node_modules
