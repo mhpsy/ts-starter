@@ -1,5 +1,5 @@
-import logger from './log'
-import { add } from './utils'
+import logger from '@/log'
+import { add } from '@/utils'
 
 const a: number = 1
 
