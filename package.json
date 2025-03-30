@@ -28,6 +28,10 @@
     "lint": "eslint",
     "test": "vitest"
   },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "winston": "^3.17.0"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^4.11.0",
     "@types/node": "^22.13.14",
