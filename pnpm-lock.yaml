@@ -11,9 +11,6 @@ importers:
       dayjs:
         specifier: ^1.11.13
         version: 1.11.13
-      vite-tsconfig-paths:
-        specifier: ^5.1.4
-        version: 5.1.4(typescript@5.8.2)(vite@6.2.3(@types/node@22.13.14)(tsx@4.19.3)(yaml@2.7.1))
       winston:
         specifier: ^3.17.0
         version: 3.17.0
@@ -42,6 +39,9 @@ importers:
       typescript:
         specifier: ^5.8.2
         version: 5.8.2
+      vite-tsconfig-paths:
+        specifier: ^5.1.4
+        version: 5.1.4(typescript@5.8.2)(vite@6.2.3(@types/node@22.13.14)(tsx@4.19.3)(yaml@2.7.1))
       vitest:
         specifier: ^3.0.9
         version: 3.0.9(@types/debug@4.1.12)(@types/node@22.13.14)(@vitest/ui@3.0.9)(tsx@4.19.3)(yaml@2.7.1)

@@ -30,7 +30,6 @@
   },
   "dependencies": {
     "dayjs": "^1.11.13",
-    "vite-tsconfig-paths": "^5.1.4",
     "winston": "^3.17.0"
   },
   "devDependencies": {
@@ -42,6 +41,7 @@
     "tinyexec": "^1.0.1",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2",
+    "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^3.0.9"
   }
 }
